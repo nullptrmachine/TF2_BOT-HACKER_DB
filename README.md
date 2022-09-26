@@ -3,8 +3,11 @@
 
                                                 A database of toxic unwanted players in TF2
 **Being auto-updated**
+
 *Includes players+bots*
+
 **Selection done by human**
+
 ## Implementation
 It's really fucking simple m8
 
