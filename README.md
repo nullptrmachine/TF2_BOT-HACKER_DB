@@ -4,7 +4,7 @@
                                  [ A database of toxic unwanted players in TF2 ]
 **Being auto-updated**
 
-*Includes players*
+*Includes votekicking retards, furries, mad grinding mains etc.*
 
 **Selection done by human**
 
