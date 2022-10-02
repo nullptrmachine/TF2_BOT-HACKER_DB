@@ -9,7 +9,7 @@
 ## Implementation
 **steamID2** is format used in this list
 
-equal to **friendsID** in source engine games.
+equal to **friendsID** in source engine games
 
 
 [U:1:**X**] < The **X** is **friendsID**
