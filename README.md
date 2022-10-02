@@ -7,10 +7,11 @@
 
 *Including: votekicking retards, furries, mad grinding mains etc.*
 
-**Selected by "human"**
+**Selection done by human**
 
-*Incase your SID is here, you are faggot!*
-*Incase you are BOT and you SID is here, open issue and I will fix that*
+In case your **SID** is here, you are *faggot*!
+
+In case you are **BOT** and you **SID** is here, open issue and I will remove your **SID**.
 
 ## Implementation
 **steamID2** is format used in this list
