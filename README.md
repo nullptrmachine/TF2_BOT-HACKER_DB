@@ -6,7 +6,7 @@
 
 *Including braindead people like: votekicking retards, furries, mad grinding mains etc.*
 
-> In case your **SteamID** is here, you are *faggot* and you should go cry!
+> In case your **SteamID** is here, you are *faggot* and fuck off!
 
 > In case you are normal and your **SteamID** is here, open issue and I will remove your **SteamID**.
 
