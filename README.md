@@ -2,9 +2,15 @@
 # TF2 Toxic Player Database (TPD)
 **Being updated everyday**
 
+*How to be efficient bot ?*
+*Be selective.*
+
 *Including: votekicking retards, furries, mad grinding mains etc.*
 
-**Selected by human**
+**Selected by "human"**
+
+*Incase your SID is here, you are faggot!*
+*Incase you are BOT and you SID is here, open issue and I will fix that*
 
 ## Implementation
 **steamID2** is format used in this list
