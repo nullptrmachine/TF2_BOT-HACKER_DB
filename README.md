@@ -87,7 +87,7 @@ std::vector<std::string> split_string(const std::string& str, const std::string&
 
 int main()
 {
-    std::vector<unsigned> vecSteamIDlist;
+    std::vector<unsigned> vecSteamID;
     
     std::string data = get_url_data(
         "raw.githubusercontent.com",
@@ -97,7 +97,7 @@ int main()
     std::vector<std::string> vecData = split_string(data, "\n");
     
     for ( auto& str : vecData )
-        vecSteamIDlist.push_back(std::stoi(str));
+        vecSteamID.push_back(std::stoi(str));
 
     return EXIT_SUCCESS;
 }
