@@ -3,10 +3,10 @@
 **Being updated everyday**
 > Selection done by human
 
-*How to be efficient BOT ?*
-*Be selective.*
+*How to be efficient?*
+*Be selective!!!*
 
-*Including: votekicking retards, furries, mad grinding mains etc.*
+*Including braindead people like: votekicking retards, furries, mad grinding mains etc.*
 
 > In case your **SID** is here, you are *faggot*!
 
