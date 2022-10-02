@@ -1,7 +1,7 @@
 
 # TF2 Toxic Player Database (TPD)
 **Being updated everyday**
-**Selection done by human**
+> Selection done by human
 
 *How to be efficient BOT ?*
 *Be selective.*
