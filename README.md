@@ -9,9 +9,15 @@
 
 **Selection done by human**
 
+
+
+
 In case your **SID** is here, you are *faggot*!
 
 In case you are **BOT** and you **SID** is here, open issue and I will remove your **SID**.
+
+
+
 
 ## Implementation
 **steamID2** is format used in this list
