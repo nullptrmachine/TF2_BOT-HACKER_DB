@@ -19,7 +19,7 @@ equal to **friendsID** in source engine games
 ```c++
 #include <iostream>
 #include <string>
-
+#include <vector>
 #include <wininet.h>
 #pragma comment(lib, "wininet.lib")
 
