@@ -6,9 +6,9 @@
 
 *Including braindead people like: votekicking retards, furries, mad grinding mains etc.*
 
-> In case your **SID** is here, you are *faggot*!
+> In case your **SteamID** is here, you are *faggot* and you should go cry!
 
-> In case you are normal and your **SID** is here, open issue and I will remove your **SID**.
+> In case you are normal and your **SteamID** is here, open issue and I will remove your **SteamID**.
 
 ## Implementation
 **steamID2** is format used in this list
@@ -18,7 +18,7 @@ equal to **friendsID** in source engine games
 
 [U:1:**X**] < The **X** is **friendsID**
 
-**Example code**
+**Example implementation code**
 
 ```c++
 #include <iostream>
