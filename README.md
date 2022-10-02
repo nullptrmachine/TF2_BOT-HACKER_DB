@@ -1,5 +1,5 @@
 
-# TF2 Toxic player database
+# TF2 Toxic Player Database (TPD)
 **Being updated everyday**
 
 *Including: votekicking retards, furries, mad grinding mains etc.*
