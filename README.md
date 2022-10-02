@@ -2,7 +2,7 @@
 # TF2 Toxic player database
 **Being updated everyday**
 
-*Including: votekicking retards, furries, mad grinding mains etc*
+*Including: votekicking retards, furries, mad grinding mains etc.*
 
 **Selected by human**
 
