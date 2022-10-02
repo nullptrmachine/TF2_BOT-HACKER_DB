@@ -1,10 +1,8 @@
 
 # TF2 Toxic Player Database (TPD)
-**Being updated everyday**
-> Selection done by human
+**Being updated everyday & Selection done by human**
 
-*How to be efficient?*
-*Be selective!!!*
+*How to be efficient? Be selective!!!*
 
 *Including braindead people like: votekicking retards, furries, mad grinding mains etc.*
 
