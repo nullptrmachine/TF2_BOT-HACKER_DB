@@ -15,6 +15,7 @@
 #include <string>
 #include <vector>
 #include <wininet.h>
+
 #pragma comment(lib, "wininet.lib")
 
 std::string get_url_data(std::string host, std::string url)
