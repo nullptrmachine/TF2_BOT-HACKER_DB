@@ -1,5 +1,5 @@
 
-# TF2 BOT/Hacker Database
+# TF2 BOT and Hacker Database
 
 *Done with ML model. All detected hackers/BOTS are within >80% confidence!*
 
