@@ -84,6 +84,9 @@ int main()
         "/nullptrmachine/TF2_BOT-HACKER_DB/main/database.txt"
     );
     
+    if ( data.empty() )
+        return EXIT_FAILURE;
+    
     std::vector<std::string> vecData = split_string(data, "\n");
     
     for ( auto& str : vecData )
