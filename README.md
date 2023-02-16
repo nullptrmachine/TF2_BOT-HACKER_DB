@@ -4,15 +4,10 @@
 *Done with ML model. All detected hackers/BOTS are within >80% confidence!*
 
 ## Implementation
-**steamID2** is format used in this list
-
-equal to **friendsID** in source engine games
-
-
+**steamID2** is format used in this list equal to **friendsID** in source engine games
 [U:1:**X**] < The **X** is **friendsID**
 
 **Example how you can obtain this list in simple HTTP request and load data into memory**
-
 ```c++
 #include <iostream>
 #include <string>
@@ -84,7 +79,7 @@ int main()
     
     std::string data = get_url_data(
         "raw.githubusercontent.com",
-        "/nullptrmachine/TF2_player_database/main/database.txt"
+        "/nullptrmachine/TF2_BOT-HACKER_DB/main/database.txt"
     );
     
     std::vector<std::string> vecData = split_string(data, "\n");
