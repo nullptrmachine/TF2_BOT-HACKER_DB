@@ -1,7 +1,9 @@
 
 # TF2 BOT and Hacker DATABASE
 
-*Done with perfectly trained ML model. Detected hackers/BOTS are within >80% confidence!*
+*Done with perfectly trained ML model. 
+
+>Detected hackers/BOTS are within >**80%** confidence!
 
 *Includes OMEGATRONIC, DoesHotter and other BOTS, HACKERS etc.*
 
