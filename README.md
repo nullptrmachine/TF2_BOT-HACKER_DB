@@ -1,14 +1,7 @@
 
-# TF2 Toxic Player Database (TPD)
-**Being updated everyday & Selection done by human**
+# TF2 BOT/Hacker Database
 
-*How to be efficient? Be selective!!!*
-
-*Including braindead people like: votekicking retards, furries, mad grinding mains etc.*
-
-> In case your **SteamID** is here, you are *faggot* and fuck off!
-
-> In case you are normal and your **SteamID** is here, open issue and I will remove your **SteamID**.
+*Done with ML model. All detected hackers/BOTS are within >80% confidence!*
 
 ## Implementation
 **steamID2** is format used in this list
@@ -18,7 +11,7 @@ equal to **friendsID** in source engine games
 
 [U:1:**X**] < The **X** is **friendsID**
 
-**Example implementation code**
+**Example how you can obtain this list in simple HTTP request and load data into memory**
 
 ```c++
 #include <iostream>
