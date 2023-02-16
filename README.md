@@ -4,7 +4,7 @@
 *Done with perfectly trained ML model that was trained on large amount of specific demos including hackers and BOTs.
 After all that there's detection algorithm created by model.*
 
-**I'm not gonna open source it however, you can access this list**
+**I'm not gonna open source it because Valve gon' instantly copypaste however, you can access this list**
 
 >All is within >**80%** confidence | **includes OMEGATRONIC, DoesHotter and other BOTS, HACKERS etc.**
 
