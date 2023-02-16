@@ -6,9 +6,9 @@ After all that there's detection algorithm created by model.*
 
 >**I'm not gonna open source it however, you can access this list**
 
-Detected Hackers/BOTS are within >**80%** confidence!
+>Detected Hackers/BOTS are within >**80%** confidence!
 
-*Includes OMEGATRONIC, DoesHotter and other BOTS, HACKERS etc.*
+>*Includes OMEGATRONIC, DoesHotter and other BOTS, HACKERS etc.*
 
 ## Implementation
 **steamID2** is format used in this list equal to **friendsID** in source engine games
