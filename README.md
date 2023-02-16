@@ -1,7 +1,8 @@
 
 # TF2 BOT and Hacker DATABASE
 
-*Done with perfectly trained ML model. 
+*Done with perfectly trained ML model that was trained on large amount of specific demos including hackers and BOTs.
+After all that there's detection algorithm created by model.*
 
 Detected Hackers/BOTS are within >**80%** confidence!
 
