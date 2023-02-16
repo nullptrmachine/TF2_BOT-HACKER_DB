@@ -85,7 +85,7 @@ int main()
     
     std::string data = get_url_data(
         "raw.githubusercontent.com",
-        "/nullptrmachine/TF2_BOT-HACKER_DB/main/database.txt"
+        "/nullptrmachine/TF2_BOT-HACKER_DB/main/database"
     );
     
     if ( data.empty() )
