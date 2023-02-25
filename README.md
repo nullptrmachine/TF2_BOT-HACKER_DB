@@ -1,7 +1,7 @@
 
 # TF2 BOT & HACKER DATABASE
 
-**Automatic TF2 votekicker is in development and will be released soon here.**
+**TFGuard is in development and will be released soon here on this account.**
 
 *Done with perfectly trained ML model that was trained on large amount of specific demos including hackers and BOTs.
 After all that there's detection algorithm created by model.*
