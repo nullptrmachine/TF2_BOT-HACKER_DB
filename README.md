@@ -1,6 +1,8 @@
 
 # TF2 BOT & HACKER DATABASE
 
+*NOTE: Anyone who tries to kick TFG user is automatically added to this database aswell.*
+
 **TFGuard is in development and will be released soon here on this account.**
 
 *Done with perfectly trained ML model that was trained on large amount of specific demos including hackers and BOTs.
