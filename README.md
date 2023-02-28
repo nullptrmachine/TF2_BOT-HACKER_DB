@@ -1,7 +1,7 @@
 
 # TF2 BOT & HACKER DATABASE
 
-*NOTE: Anyone who tries to kick TFG user is automatically added to this database aswell.*
+*NOTE: Anyone who tries to kick TFG user is automatically added to this database as well.*
 
 **TFGuard is in development and will be released soon here on this account.**
 
