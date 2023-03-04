@@ -118,7 +118,7 @@ int main()
     // fragment data
     std::vector<std::string> vecData = split_string(data, "\n");
     
-    // append data
+    // parse and append data
     for ( auto& str : vecData )
         vecSteamID.push_back(std::stoi(str));
 
